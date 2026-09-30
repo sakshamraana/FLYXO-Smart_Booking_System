@@ -1,6 +1,6 @@
-# CineBook - Real-Time Movie Ticket Booking System
+# FLYXO - Real-Time Movie Ticket Booking System
 
-CineBook is a production-quality, real-time movie ticket booking full-stack web application designed for high concurrency and immediate seat locking visual synchronization across clients.
+FLYXO is a production-quality, real-time movie ticket booking full-stack web application designed for high concurrency and immediate seat locking visual synchronization across clients.
 
 ## Key Features
 
